@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Prototipo telas</string>
+    <string name="textura" />
+    <string name="esqueceu_a_senha">Esqueceu a senha</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Acessar</string>
+    <string name="button_google">google</string>
+    <string name="tela_principal">bg_main</string>
+    <string name="img_usuario" />
+    <string name="facebook">btn_face</string>
+    <string name="escreva_se">Escreva-se</string>
+   <string name="text_welcome">Bem vindo ao Aplicativo</string>
+    <string name="cadastro">Cadastrar</string>
+    <string name="logado">Me manter logado</string>
+    <string name="nome">Nome</string>
+    <string name="email_cadastro">Email</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="telefone">Telefone</string>
+    <string name="sexo">Feminino</string>
+</resources>
